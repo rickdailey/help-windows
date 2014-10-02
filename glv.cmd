@@ -1,0 +1,2 @@
+svn up
+msbuild /m
