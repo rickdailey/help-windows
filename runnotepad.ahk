@@ -1,4 +1,4 @@
-NotepadPath:= "U:\Software\Notepad2\Notepad2.exe"
+NotepadPath:= "notepad"
 
 #n::Run %NotepadPath%
 ^!n::Run %NotepadPath%
